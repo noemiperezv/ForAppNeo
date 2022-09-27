@@ -1,14 +1,12 @@
 # ForAppNeo
-
-# Nombre del proyecto:
-** ForAppNeo
+<br><br><br>
 # Integrantes 
 * Sandra Nohelia Aguayo Nuñez
 * Noemi Perez Vega
 * Carolina Ramos Velázquez
-
-#Objetivo
-
+<br><br><br>
+# Objetivo
+<br><br><br>
 Desarrollar una aplicación para foraneos los cuales pueden o no tener conocimiento de los servicios y lugares en el lugar en el que viven.
 <br><br><br>
 ## Lista de historias de usuario
@@ -37,7 +35,7 @@ Desarrollar una aplicación para foraneos los cuales pueden o no tener conocimie
     <td>3</td>
     <td>Alta</td>
     <td>Pantalla de Menu principal</td>
-    <td>3</td>
+    <td>1</td>
   </tr>
   
   <tr>
