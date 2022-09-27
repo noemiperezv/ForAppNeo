@@ -1,13 +1,10 @@
 # ForAppNeo
-<br><br><br>
 # Integrantes 
 * Sandra Nohelia Aguayo Nuñez
 * Noemi Perez Vega
 * Carolina Ramos Velázquez
-<br><br><br>
 # Objetivo
-<br><br><br>
-Desarrollar una aplicación para foraneos los cuales pueden o no tener conocimiento de los servicios y lugares en el lugar en el que viven.
+Desarrollar una aplicación móvil, de estilo red social que proporcione a las personas principalmente foráneas (en Dolores Hidalgo) un medio en el que se puede compartir información que les resultará útil durante su estadía en dicho lugar.
 <br><br><br>
 ## Lista de historias de usuario
 <table>
